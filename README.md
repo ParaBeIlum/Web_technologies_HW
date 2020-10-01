@@ -5,11 +5,18 @@ Homework solutions for GeekBrains "Web-technologies: vulnerabilities and securit
 
 Разделы:
 
-Html и css
-Javascript
-Same origin policy
-Javascript. безопасность
-Современные client side технологии и другие технологии веба
 Введение в веб
+
+Html и css
+
+Javascript
+
+Same origin policy
+
+Javascript. безопасность
+
+Современные client side технологии и другие технологии веба
+
 Url
+
 Http
