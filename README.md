@@ -1,5 +1,4 @@
-# Web_technologies_HW
-Homework solutions for GeekBrains "Web-technologies: vulnerabilities and security" course
+# Homework solutions for GeekBrains "Web-technologies: vulnerabilities and security" course
 
 «Веб-технологии: уязвимости и безопасность»
 
