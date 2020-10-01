@@ -1,21 +1,21 @@
 # Homework solutions for GeekBrains "Web-technologies: vulnerabilities and security" course
 
-«Веб-технологии: уязвимости и безопасность»
+# «Веб-технологии: уязвимости и безопасность»
 
-Разделы:
+## Разделы:
 
-Введение в веб
+## Введение в веб
 
-Html и css
+## Html и css
 
-Javascript
+## Javascript
 
-Same origin policy
+## Same origin policy
 
-Javascript. безопасность
+## Javascript. безопасность
 
-Современные client side технологии и другие технологии веба
+## Современные client side технологии и другие технологии веба
 
-Url
+## Url
 
-Http
+## Http
